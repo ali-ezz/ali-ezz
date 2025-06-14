@@ -1,50 +1,89 @@
-# 👋 Hello! I'm Ali Ezz
+<p align="center">
+  <img src="https://github.com/ali-ezz/ali-ezz/blob/main/banner-dark.png" alt="Ali Ezz Banner" width="100%" />
+</p>
 
-🎓 **Data Science Student** | 🧠 **AI & Machine Learning Explorer** | 🧑‍💻 **Full-Stack Enthusiast**  
-Passionate about solving real-world problems with elegant, efficient code.
-
----
-
-## 🧑‍💼 About Me
-
-- 📍 Based in Egypt, studying at Helwan National University  
-- 💡 Focused on **Data Science**, **AI**, and **Web Development**  
-- 🔬 Applying theory through hands-on academic and personal projects  
-- 💪 Contributor to events like MetaCode as Technical Coordinator  
-- 🌱 Constantly learning and building projects in Python, Django, JS, and more  
+<h1 align="center">👋 Hi, I'm Ali Ezz!</h1>
+<p align="center">
+🎓 Data Science Student • 🧠 AI Explorer • 🌐 Full-Stack Learner  
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
 
-![Python](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
-![Pandas](https://img.shields.io/badge/-Pandas-informational?style=flat-square&logo=pandas&logoColor=white&color=2bbc8a)
-![NumPy](https://img.shields.io/badge/-NumPy-informational?style=flat-square&logo=numpy&logoColor=white&color=2bbc8a)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-informational?style=flat-square&logo=matplotlib&logoColor=white&color=2bbc8a)
-![Seaborn](https://img.shields.io/badge/-Seaborn-informational?style=flat-square&logo=seaborn&logoColor=white&color=2bbc8a)
-![HTML](https://img.shields.io/badge/-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
-![CSS](https://img.shields.io/badge/-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
-![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
-![Flask](https://img.shields.io/badge/-Flask-informational?style=flat-square&logo=flask&logoColor=white&color=2bbc8a)
-![Django](https://img.shields.io/badge/-Django-informational?style=flat-square&logo=django&logoColor=white&color=2bbc8a)
-![Docker](https://img.shields.io/badge/-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
-![Firebase](https://img.shields.io/badge/-Firebase-informational?style=flat-square&logo=firebase&logoColor=white&color=2bbc8a)
+💻 I’m a Data Science student at **Helwan National University**, passionate about:  
+- 🔍 Exploring **Machine Learning**, **AI**, and **Data Analysis**
+- 🛠 Building **real-world web apps and automations**
+- 📚 Continuously improving through **courses, challenges, and projects**
+- 🤝 Volunteered in events like **MetaCode** as a technical coordinator
+
+🧩 I enjoy connecting the dots between technology, logic, and creativity.
 
 ---
 
-## 📈 GitHub Stats
+### 🧠 My Tech Toolbox
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-ezz&show_icons=true&theme=tokyonight&hide=issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-ezz&layout=compact&theme=tokyonight)
+<p>
+  <img src="https://img.shields.io/badge/-Python-2bbc8a?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-2bbc8a?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NumPy-2bbc8a?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-2bbc8a?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-2bbc8a?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-2bbc8a?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2bbc8a?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Firebase-2bbc8a?style=for-the-badge&logo=firebase&logoColor=white"/>
+</p>
 
 ---
 
-## 🔗 Let's Connect
+### 📌 Highlight Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ezz-alyan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ali.ezz617@gmail.com)
+| 📂 Project | 🔧 Description |
+|-----------|----------------|
+| [Vaccination Scheduler](https://github.com/ali-ezz/...) | Automates Egypt's vaccine system using Python |
+| [Airline Booking System](https://github.com/ali-ezz/...) | Python system with payment and e-tickets |
+| [University Network Design](https://github.com/ali-ezz/...) | Cisco Packet Tracer network for Helwan Univ. |
+| [E-Commerce Website](https://github.com/ali-ezz/...) | Full HTML/CSS/JS shopping platform |
+
+_(⬆️ You’ll update the links once projects are uploaded)_
 
 ---
+
+### 📜 Certifications
+
+✅ [Python for Data Science (IBM)](https://coursera.org/verify/2U93X4QT1FOW)  
+✅ [Tools for Data Science (IBM)](https://coursera.org/verify/CK7U4I3RREGR)  
+✅ [Data Science Methodology (IBM)](https://coursera.org/verify/TMOGBH1DJLQH)  
+✅ [Python (Kaggle)](https://www.kaggle.com/learn/certification/ali-ezz/python)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-ezz&show_icons=true&theme=tokyonight&hide=issues" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-ezz&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-ezz-alyan" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ali.ezz617@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">Visitors Count</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ali-ezz&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 <!--
 **ali-ezz/ali-ezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
