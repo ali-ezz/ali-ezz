@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ali Ezz</h1>
 <p align="center">
-🎓 Data Science Student • 🧠 AI Explorer • 🌐 Full-Stack Learner  
+🎓 Data Science Student • 🧠 AI Explorer • 🌐 Full-Stack dev  
 </p>
 
 ---
