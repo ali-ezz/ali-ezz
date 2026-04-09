@@ -135,16 +135,6 @@ Currently seeking **internship opportunities** in **Data Engineering** or **ML/A
 - **English**: Full Professional Proficiency
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-ezz&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-ezz&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 I'm always open to discussing new opportunities, collaborations, or just chatting about AI and data engineering.
