@@ -1,10 +1,9 @@
 # 👋 Hi, I'm ALI Alyan
 
-### Data Science Student @ Helwan National University | ML & Data Engineering | IBM · Harvard CS50 AI · GCP Certified
+### Data Science Student  Helwan National University | ML & Data Engineering | IBM · Harvard CS50 AI · GCP Certified
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ali--ezz--portfolio.vercel.app-blue?style=flat-square&logo=vercel)](https://ali-ezz-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--ezz--alyan-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ali-ezz-alyan)
-[![YouTube](https://img.shields.io/badge/YouTube-Data_Science_&_AI-FF0000?style=flat-square&logo=youtube)](https://youtube.com)
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
 
 ---
