@@ -1,156 +1,249 @@
-<h1 align="center">Hi, I'm Ali Alyan 👋</h1>
+<!--
+  Ali Alyan — GitHub Profile README
+  Focus: Data Engineering + Applied AI
+-->
 
-<p align="center">
-  <b>Data Engineering-Focused Data Science Student</b><br>
-  Building AI-ready data systems, ETL pipelines, LLM applications, and production-style technical projects.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0F172A,50:2563EB,100:06B6D4&section=header&text=Ali%20Alyan&fontColor=FFFFFF&fontSize=44&fontAlignY=36&animation=fadeIn" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ali-ezz-alyan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Alyan-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://ali-ezz-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-ali--ezz--portfolio.vercel.app-black?style=flat-square&logo=vercel" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/ali-ezz">
-    <img src="https://img.shields.io/badge/GitHub-ali--ezz-181717?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
+
+# Data Engineering-Focused Data Science Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI-ready+data+systems;Designing+ETL+pipelines+and+data+workflows;Exploring+LLMs%2C+RAG%2C+and+Applied+AI;Turning+projects+into+production-style+systems" alt="Typing SVG" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/ali-ezz-alyan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ali%20Alyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://ali-ezz-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Site-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/ali-ezz">
+  <img src="https://img.shields.io/badge/GitHub-ali--ezz-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ali-ezz&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Research%20%7C%20Projects-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%2B%20Applied%20AI-F97316?style=for-the-badge" />
+
+</div>
 
 ---
 
 ## About Me
 
-I'm a **Data Science student at Helwan National University** focused on **Data Engineering** and **Applied AI**.
+```yaml
+name: Ali Alyan
+location: Cairo, Egypt
+education: Data Science Student at Helwan National University
+cgpa: 3.58 / 4.00
 
-My main interest is building systems that go beyond notebooks:
+main_focus:
+  - Data Engineering
+  - Applied AI
+  - AI-ready data systems
+  - Production-style technical projects
 
-- data pipelines that collect, clean, transform, and serve data
-- APIs and dashboards that make data useful
-- AI-powered products backed by real data workflows
-- production-style projects with clear documentation, deployment, and architecture
+currently_building:
+  - ETL pipelines
+  - Data workflows
+  - APIs and dashboards
+  - LLM and RAG applications
+  - Privacy-focused collaboration systems
 
-Right now, I am positioning myself toward roles in:
+target_roles:
+  - Data Engineering Intern
+  - Data Platform Intern
+  - Analytics Engineering Intern
+  - Applied AI Intern
+  - ML Engineering Intern
+  - Research / Project Assistant
 
-- **Data Engineering**
-- **Data Platforms**
-- **Analytics Engineering**
-- **Applied AI Engineering**
-- **ML Engineering**
-- **Research / project-based AI & Data Science work**
+principle: "Real systems beat notebooks."
+```
 
 ---
 
-## Current Technical Focus
+## Technical Direction
 
 <table>
-  <tr>
-    <td><b>Data Engineering</b></td>
-    <td>Python, SQL, ETL pipelines, data warehousing, Apache Spark, Apache Kafka, GCP</td>
-  </tr>
-  <tr>
-    <td><b>Applied AI</b></td>
-    <td>LLM applications, RAG workflows, LangChain, Hugging Face, prompt engineering</td>
-  </tr>
-  <tr>
-    <td><b>Machine Learning</b></td>
-    <td>Scikit-learn, TensorFlow, PyTorch, model evaluation, computer vision, NLP</td>
-  </tr>
-  <tr>
-    <td><b>Engineering</b></td>
-    <td>Docker, APIs, Git, CI/CD basics, deployment, technical documentation</td>
-  </tr>
+<tr>
+<td width="50%">
+
+### Data Engineering
+
+I focus on building reliable data systems that can support analytics, dashboards, and AI applications.
+
+- ETL / ELT pipelines
+- SQL-based analytics
+- Data warehousing concepts
+- Batch and streaming pipelines
+- Data cleaning and transformation
+- Cloud data tools
+- Data systems for AI products
+
+</td>
+<td width="50%">
+
+### Applied AI
+
+I am interested in using AI as part of real products, not isolated demos.
+
+- LLM applications
+- RAG workflows
+- Prompt engineering
+- AI-powered APIs
+- Model-backed products
+- Hugging Face / LangChain workflows
+- Evaluation and limitations thinking
+
+</td>
+</tr>
 </table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
+<br>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+### Data, AI & Backend
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,django,nodejs,postgres,mysql,mongodb" />
+<br>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+### Cloud, DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github,linux,bash,vscode" />
+
+### Web & Product
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,vercel,firebase,supabase" />
+
+</div>
 
 ---
 
 ## Featured Projects
 
-### CareerBuddy — AI Career Intelligence Platform
+<table>
+<tr>
+<td width="50%">
+
+### CareerBuddy  
+**AI Career Intelligence Platform**
 
 AI-powered job discovery platform that analyzes live job listings and estimates AI disruption risk using LLM-based reasoning.
 
 **Highlights**
 
-- Integrated Groq's LLaMA model through serverless APIs
-- Fetched live job data through the Remotive API
-- Built AI-based job risk scoring with natural language explanations
-- Added filters for location, salary, remote work, and experience level
-- Deployed on Vercel with continuous iterations
+- Live job data ingestion through Remotive API
+- LLM-based AI risk scoring using Groq / LLaMA
+- Career coach and recommendation features
+- Filters for location, salary, remote work, and experience level
+- Vercel deployment with continuous iterations
 
-**Tech Stack:** JavaScript, Node.js, Vercel Serverless, Groq API, LLaMA, Remotive API
+**Stack**
 
-[Repository](https://github.com/ali-ezz/CareerBuddy)
+`JavaScript` · `Node.js` · `Vercel Serverless` · `Groq API` · `LLaMA` · `Remotive API`
 
----
+<a href="https://github.com/ali-ezz/CareerBuddy">
+  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### NEVAI — Privacy-Focused Collaboration Platform
+</td>
+<td width="50%">
 
-Graduation project and startup prototype exploring zero-knowledge, end-to-end encrypted collaboration workflows for documents, communication, and team productivity.
+### NEVAI  
+**Privacy-Focused Collaboration Platform**
 
-**My contributions include**
+Graduation project and startup prototype exploring encrypted collaboration workflows for documents, communication, and team productivity.
+
+**My Work**
 
 - Client-side encryption flow design
-- Real-time collaboration logic using ChainPad-style operational transforms
+- Real-time collaboration logic
 - Docker-based deployment workflows
 - Security documentation and threat-model thinking
-- Collaboration under academic supervision from faculty and TA mentors
+- Academic supervision with faculty / TA mentors
 
-**Tech Stack:** Node.js, WebSocket, Docker, CryptPad, ChainPad, JavaScript/TypeScript
+**Stack**
 
----
+`Node.js` · `WebSocket` · `Docker` · `CryptPad` · `ChainPad` · `JavaScript/TypeScript`
 
-### Course Management System
+</td>
+</tr>
 
-A modular JavaFX application for managing academic courses, users, enrollments, grades, and role-based dashboards.
+<tr>
+<td width="50%">
 
-**Highlights**
+### Course Management System  
+**JavaFX Academic Platform**
 
-- Designed role-based access for Admin, Instructor, and Student users
-- Implemented authentication and persistent storage
-- Used object-oriented design principles
-- Built a structured JavaFX interface with FXML
-
-**Tech Stack:** Java, JavaFX, FXML, OOP, File Serialization
-
-[Repository](https://github.com/ali-ezz/Course-Management-System)
-
----
-
-### Genetic Algorithms in AI
-
-Academic AI project applying Genetic Algorithms to optimization problems such as timetable scheduling, knapsack optimization, and benchmark function optimization.
+A modular academic course management system with role-based dashboards and persistent storage.
 
 **Highlights**
 
-- Implemented genetic representation, selection, crossover, mutation, and fitness functions
-- Compared optimization behavior across problem types
-- Documented algorithmic logic and experiment outcomes
+- Admin, Instructor, and Student roles
+- Authentication and persistent storage
+- JavaFX UI with FXML
+- Object-oriented design
 
-**Tech Stack:** Python, Genetic Algorithms, Optimization, AI Search
+**Stack**
 
-[Repository](https://github.com/ali-ezz/Genetic-Algorithms-in-AI)
+`Java` · `JavaFX` · `FXML` · `OOP` · `File Serialization`
 
----
+<a href="https://github.com/ali-ezz/Course-Management-System">
+  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### Logistics and Supply Chain System
+</td>
+<td width="50%">
 
-Command-line logistics management system focused on access control, file operations, permissions, and secure role-based workflows.
+### Genetic Algorithms in AI  
+**Optimization Problems**
+
+Academic AI project applying Genetic Algorithms to scheduling, knapsack optimization, and benchmark function optimization.
 
 **Highlights**
 
-- Implemented role-based access control
-- Added file and directory permission workflows
-- Built command-line operations for logistics management
-- Applied systems programming concepts to a business-style use case
+- Selection, crossover, mutation, and fitness functions
+- Multiple optimization problem types
+- Algorithmic analysis and documentation
+- Academic report-style structure
 
-**Tech Stack:** C / Systems Programming, File Operations, RBAC, CLI
+**Stack**
 
-[Repository](https://github.com/ali-ezz/logistics-supply-chain-system)
+`Python` · `Genetic Algorithms` · `Optimization` · `AI Search`
+
+<a href="https://github.com/ali-ezz/Genetic-Algorithms-in-AI">
+  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Selected Certifications
+
+<table>
+<tr>
+<td width="33%">
 
 ### Data Engineering & Cloud
 
@@ -159,12 +252,18 @@ Command-line logistics management system focused on access control, file operati
 - Google Data Analytics Professional Certificate
 - AWS: Becoming a Machine Learning Engineer
 
+</td>
+<td width="33%">
+
 ### AI / ML Engineering
 
 - IBM AI Engineering Professional Certificate
 - IBM Machine Learning Professional Certificate
 - Microsoft AI & ML Engineering Professional Certificate
-- CS50's Introduction to Artificial Intelligence with Python
+- CS50's Introduction to AI with Python
+
+</td>
+<td width="33%">
 
 ### MLOps, LLMs & Systems
 
@@ -174,52 +273,103 @@ Command-line logistics management system focused on access control, file operati
 - CS50x: Introduction to Computer Science
 - Knowledge Graphs — Foundations and Applications
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## Experience
 
+<table>
+<tr>
+<td width="50%">
+
 ### Co-Founder & Engineering Lead — NEVAI
 
-Building a privacy-focused collaboration platform as a graduation project and startup prototype, with work across encrypted workflows, real-time collaboration, technical documentation, and deployment.
+Building a privacy-focused collaboration platform as a graduation project and startup prototype.
 
-### Generative AI Apprentice — Information Technology Institute
+**Work areas**
 
-Completed NVIDIA DLI-based training through ITI covering foundational Generative AI concepts, LLM workflows, prompt engineering, and introductory RAG application patterns.
+- Encrypted workflows
+- Real-time collaboration
+- Security documentation
+- Deployment workflows
+- Technical architecture
+
+</td>
+<td width="50%">
+
+### Generative AI Apprentice — ITI
+
+Completed NVIDIA DLI-based training through the Information Technology Institute.
+
+**Covered**
+
+- LLM concepts
+- Prompt engineering
+- Introductory RAG workflows
+- Python-based AI application patterns
+
+</td>
+</tr>
+</table>
 
 ### Educational Technical Content Creator
 
-Creating visual explanations of AI, data science, and computer science concepts using Python and Manim.
+Creating visual explanations of AI, data science, and computer science concepts using **Python** and **Manim**.
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-ezz&show_icons=true&hide_border=true" alt="Ali's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-ezz&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ali-ezz&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-ezz&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 
-## What I'm Working Toward
-
-I am currently improving my profile around:
-
-- building stronger Data Engineering projects
-- rewriting and polishing project documentation
-- improving GitHub repository structure
-- creating technical LinkedIn and YouTube content
-- preparing for internships, research/project work, and future scholarship opportunities
+</div>
 
 ---
 
-## Connect
+## Current Roadmap
 
-<p>
-  <a href="https://www.linkedin.com/in/ali-ezz-alyan/">LinkedIn</a> ·
-  <a href="https://github.com/ali-ezz">GitHub</a> ·
-  <a href="https://ali-ezz-portfolio.vercel.app/">Portfolio</a>
-</p>
+```yaml
+short_term:
+  - Polish GitHub repositories and documentation
+  - Build stronger Data Engineering projects
+  - Improve project READMEs with architecture and setup instructions
+  - Create technical LinkedIn and YouTube content
+
+medium_term:
+  - Land a Data Engineering / Data Platform / Applied AI internship
+  - Build research/project experience with faculty or TA supervision
+  - Prepare scholarship and study-abroad applications before graduation
+
+long_term:
+  - Become a strong Data Engineer with Applied AI depth
+  - Build real systems that combine data infrastructure, AI, and product thinking
+```
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ali-ezz-alyan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ali%20Alyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://ali-ezz-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Site-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/ali-ezz">
+  <img src="https://img.shields.io/badge/GitHub-ali--ezz-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:06B6D4,50:2563EB,100:0F172A&section=footer" />
