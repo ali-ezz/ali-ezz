@@ -3,115 +3,134 @@
 # Ali Alyan
 
 ### Data Engineering-Focused Data Science Student  
-Building data systems, ETL pipelines, and applied AI products.
+#### Building data pipelines, AI-ready systems, and applied AI products.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=850&color=00C2FF&center=true&vCenter=true&width=950&lines=Data+Engineering+%7C+Applied+AI+%7C+ML+Systems;Python+%E2%80%A2+SQL+%E2%80%A2+Spark+%E2%80%A2+Kafka+%E2%80%A2+GCP;Building+real+systems%2C+not+just+notebooks;Turning+data+into+pipelines%2C+products%2C+and+AI+workflows" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=750&color=00C2FF&center=true&vCenter=true&width=950&lines=Data+Engineering+first.+Applied+AI+second.;Python+%E2%80%A2+SQL+%E2%80%A2+Spark+%E2%80%A2+Kafka+%E2%80%A2+GCP;I+build+systems+that+move%2C+clean%2C+serve%2C+and+use+data.;Real+systems+beat+notebooks." alt="Typing SVG" />
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/ali-ezz-alyan/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Ali%20Alyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://ali-ezz-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://github.com/ali-ezz">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-ali--ezz-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ali-ezz&style=for-the-badge&color=0891b2" />
-<img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Research%20%7C%20Projects-16a34a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Primary%20Focus-Data%20Engineering-0284c7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Secondary%20Focus-Applied%20AI-7c3aed?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ali-ezz&style=flat-square&color=0891b2" />
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Research%20%7C%20Projects-16a34a?style=flat-square" />
+<img src="https://img.shields.io/badge/Primary-Data%20Engineering-0284c7?style=flat-square" />
+<img src="https://img.shields.io/badge/Secondary-Applied%20AI-7c3aed?style=flat-square" />
 
 </div>
 
 ---
 
-## About Me
-
-I'm a **Data Science student at Helwan National University** with a strong focus on **Data Engineering** and **Applied AI**.
-
-I’m most interested in building systems that go beyond notebooks — systems that collect, transform, serve, and use data in ways that support analytics, products, and AI applications.
-
-My current direction combines:
-
-- **Data Engineering** → ETL pipelines, SQL workflows, data foundations, and cloud-based systems  
-- **Applied AI** → LLM applications, RAG workflows, and AI-backed product features  
-- **Engineering mindset** → technical documentation, deployment, clean project structure, and production-style thinking  
-
----
-
-## Profile Snapshot
+## System Identity
 
 ```yaml
 name: Ali Alyan
 location: Cairo, Egypt
-education: Data Science Student at Helwan National University
+university: Helwan National University
+major: Data Science
 cgpa: 3.58 / 4.00
 
-main_focus:
-  - Data Engineering
-  - Applied AI
-  - AI-ready data systems
-  - production-style technical projects
+primary_track: Data Engineering
+secondary_track: Applied AI
 
-currently_working_on:
-  - ETL pipelines and data workflows
-  - APIs and dashboards
-  - LLM and RAG applications
-  - stronger project documentation
-  - portfolio and GitHub polish
+current_mission:
+  - build AI-ready data systems
+  - design cleaner ETL and data workflows
+  - turn projects into production-style proof
+  - document systems like an engineer, not just a student
 
-target_roles:
-  - Data Engineering Intern
-  - Data Platform Intern
-  - Analytics Engineering Intern
-  - Applied AI Intern
-  - ML Engineering Intern
-  - Research / Project Assistant
+target_environment:
+  - data engineering teams
+  - data platform teams
+  - applied AI teams
+  - research or project-based AI/data work
 
-principle: "Real systems beat notebooks."
+operating_principle: "Real systems beat notebooks."
 ```
 
 ---
 
-## Technical Focus
+## What I Am Building Toward
+
+I am not trying to be “the student with many certificates.”
+
+I am building toward a profile that proves I can:
+
+- collect and structure data from real sources
+- clean, transform, and model data for actual use
+- build APIs, dashboards, and AI-backed workflows
+- explain technical systems clearly
+- move from notebook experiments to production-style projects
+
+My main path is **Data Engineering**.  
+My second layer is **Applied AI**.
+
+That means I care about the systems behind AI: the data, pipelines, APIs, deployment, evaluation, and documentation that make AI useful outside a demo.
+
+---
+
+## Current System Status
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2300&pause=700&color=22C55E&center=true&vCenter=true&width=850&lines=Now+polishing+GitHub+repositories;Improving+project+READMEs+and+architecture;Building+stronger+Data+Engineering+proof;Preparing+for+internships%2C+research%2C+and+future+scholarships" alt="Current Status Typing Animation" />
+
+</div>
+
+---
+
+## Technical Map
 
 <table>
 <tr>
 <td width="50%">
 
-### Data Engineering
+### Data Engineering Core
 
-I focus on building the data layer that analytics and AI systems depend on.
+The part I am prioritizing most.
 
-- SQL analytics
-- ETL / ELT pipelines
-- data cleaning and transformation
-- data warehouse concepts
-- batch and streaming workflows
-- Spark and Kafka fundamentals
-- cloud data workflows
+```text
+Python
+SQL
+ETL / ELT
+Data Cleaning
+Data Modeling
+Data Warehousing
+Apache Spark
+Apache Kafka
+GCP Data Workflows
+APIs and Dashboards
+```
 
 </td>
 <td width="50%">
 
-### Applied AI
+### Applied AI Layer
 
-I’m interested in AI systems that are connected to real workflows, not isolated demos.
+The layer I want to combine with data systems.
 
-- LLM applications
-- RAG workflows
-- prompt engineering
-- model-backed products
-- AI-powered APIs
-- LangChain / Hugging Face workflows
-- evaluation and limitation awareness
+```text
+Machine Learning
+LLM Applications
+RAG Workflows
+LangChain
+Hugging Face
+Prompt Engineering
+Model-backed Products
+Evaluation Thinking
+AI Product Limitations
+```
 
 </td>
 </tr>
@@ -119,26 +138,30 @@ I’m interested in AI systems that are connected to real workflows, not isolate
 
 ---
 
-## Tech Stack
+## Tools I Work With
 
 <div align="center">
 
 ### Languages
+
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
 
 <br><br>
 
-### Data, AI & Backend
+### Data, AI, and Backend
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,django,nodejs,postgres,mysql,mongodb" />
 
 <br><br>
 
-### Cloud, DevOps & Tools
+### Cloud, DevOps, and Engineering
+
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github,linux,bash,vscode" />
 
 <br><br>
 
-### Web & Product
+### Product and Web
+
 <img src="https://skillicons.dev/icons?i=html,css,react,vite,vercel,firebase,supabase" />
 
 <br><br>
@@ -154,28 +177,52 @@ I’m interested in AI systems that are connected to real workflows, not isolate
 
 ---
 
-## Featured Projects
+## Project Lab
 
 ### CareerBuddy — AI Career Intelligence Platform
 
-AI-powered job discovery platform that analyzes live job listings and estimates AI disruption risk using LLM-based reasoning.
+CareerBuddy is an AI-powered job discovery platform that analyzes live job listings and estimates AI disruption risk using LLM-based reasoning.
 
-**What it includes**
-- live job data ingestion through the Remotive API
-- LLM-based risk scoring using Groq / LLaMA
+```yaml
+type: Applied AI product
+status: deployed prototype
+main_problem: helping users understand job-market risk and career direction
+data_source: Remotive API
+ai_layer: Groq / LLaMA
+deployment: Vercel
+```
+
+**What I worked on**
+
+- live job data ingestion from an external API
+- LLM-based job-risk scoring
 - AI-powered career guidance features
-- filtering by location, salary, remote work, and experience level
-- deployment through Vercel with continuous iterations
+- filters for location, salary, remote work, and experience level
+- serverless deployment and repeated production iterations
 
 **Stack:** `JavaScript` · `Node.js` · `Vercel Serverless` · `Groq API` · `LLaMA` · `Remotive API`
+
+<p>
+  <a href="https://github.com/ali-ezz/CareerBuddy">
+    <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### NEVAI — Privacy-Focused Collaboration Platform
 
-A graduation project and startup prototype exploring encrypted collaboration workflows for documents, communication, and team productivity.
+NEVAI is my graduation project and startup prototype. It explores encrypted collaboration workflows for documents, communication, and team productivity.
+
+```yaml
+type: graduation project / startup prototype
+focus: privacy-focused collaboration
+area: encrypted workflows and real-time collaboration
+status: under active development
+```
 
 **My contributions**
+
 - client-side encryption flow design
 - real-time collaboration logic
 - Docker-based deployment workflows
@@ -186,55 +233,64 @@ A graduation project and startup prototype exploring encrypted collaboration wor
 
 ---
 
-### Public Repository Highlights
+### Course Management System
 
-<div align="center">
+A JavaFX academic platform for managing courses, users, enrollments, and role-based dashboards.
 
-<a href="https://github.com/ali-ezz/CareerBuddy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-ezz&repo=CareerBuddy&theme=github_dark&hide_border=true" />
-</a>
+```yaml
+type: university software engineering project
+focus: OOP and role-based academic workflows
+stack: Java / JavaFX / FXML
+```
 
-<a href="https://github.com/ali-ezz/Course-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-ezz&repo=Course-Management-System&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/ali-ezz/Genetic-Algorithms-in-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-ezz&repo=Genetic-Algorithms-in-AI&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/ali-ezz/logistics-supply-chain-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-ezz&repo=logistics-supply-chain-system&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
+<p>
+  <a href="https://github.com/ali-ezz/Course-Management-System">
+    <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Selected Certifications
+### Genetic Algorithms in AI
 
-**Data Engineering & Cloud**  
+Academic AI project applying Genetic Algorithms to scheduling, knapsack optimization, and benchmark function optimization.
+
+```yaml
+type: AI algorithms project
+focus: optimization and search
+stack: Python
+```
+
+<p>
+  <a href="https://github.com/ali-ezz/Genetic-Algorithms-in-AI">
+    <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Learning Proof
+
+I keep certifications here as supporting evidence, not as the main story.
+
+**Data Engineering and Cloud**  
 IBM Data Engineering · Data Engineering, Big Data, and Machine Learning on GCP · Google Data Analytics · AWS: Becoming a Machine Learning Engineer
 
-**AI / ML Engineering**  
+**AI and ML Engineering**  
 IBM AI Engineering · IBM Machine Learning · Microsoft AI & ML Engineering · CS50's Introduction to AI with Python
 
-**MLOps, LLMs & Systems**  
+**MLOps, LLMs, and Systems**  
 Duke MLOps · AWS Generative AI and AI Agents with Amazon Bedrock · NVIDIA Building LLM Applications With Prompt Engineering · CS50x · Knowledge Graphs
 
 ---
 
-## GitHub Analytics
+## Content and Teaching
 
-<div align="center">
+I like explaining technical ideas in a visual and simple way.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ali-ezz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-ezz&layout=compact&theme=github_dark&hide_border=true" />
+I have worked on educational content using **Python** and **Manim**, including short visual explanations of technical topics such as AI concepts, GPS, and WiFi.
 
-<br><br>
-
-<img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=ali-ezz&theme=github-dark&hide_border=true&area=true" />
-
-</div>
+This matters to me because teaching forces clarity. If I cannot explain a system simply, I probably do not understand it deeply enough.
 
 ---
 
@@ -250,13 +306,13 @@ Duke MLOps · AWS Generative AI and AI Agents with Amazon Bedrock · NVIDIA Buil
 
 ---
 
-## Current Roadmap
+## Roadmap
 
 ```yaml
 short_term:
-  - polish GitHub repositories and documentation
-  - build stronger Data Engineering projects
-  - improve project READMEs with architecture and setup instructions
+  - polish GitHub repositories
+  - rewrite project READMEs
+  - build stronger Data Engineering proof
   - create technical LinkedIn and YouTube content
 
 medium_term:
@@ -266,13 +322,19 @@ medium_term:
 
 long_term:
   - become a strong Data Engineer with Applied AI depth
-  - build real systems that combine data infrastructure, AI, and product thinking
+  - build systems that combine data infrastructure, AI, and product thinking
 ```
 
 ---
 
 <div align="center">
 
-### Real systems beat notebooks.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=850&lines=Real+systems+beat+notebooks.;Data+foundations+make+AI+useful.;Build.+Document.+Improve.+Repeat." alt="Footer Typing Animation" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/ali-ezz-alyan/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
