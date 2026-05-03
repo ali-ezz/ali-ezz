@@ -3,11 +3,11 @@
 # Ali Alyan
 
 ### Data Engineering-Focused Data Science Student  
-#### Building AI-ready data systems, ETL pipelines, and applied AI products.
+#### Building data pipelines, AI-ready systems, and applied AI products.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=750&color=00C2FF&center=true&vCenter=true&width=950&lines=Data+Engineering+first.+Applied+AI+second.;Python+%E2%80%A2+SQL+%E2%80%A2+Spark+%E2%80%A2+Kafka+%E2%80%A2+GCP;I+build+systems+that+move%2C+clean%2C+serve%2C+and+use+data.;Real+systems+beat+notebooks." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=750&color=00C2FF&center=true&vCenter=true&width=950&lines=Data+Engineering+first.+Applied+AI+second.;I+build+systems+that+move%2C+clean%2C+serve%2C+and+use+data.;Python+%E2%80%A2+SQL+%E2%80%A2+Spark+%E2%80%A2+Kafka+%E2%80%A2+GCP;Real+systems+beat+notebooks." alt="Typing animation" />
 
 <br><br>
 
@@ -16,9 +16,6 @@
 </a>
 <a href="https://ali-ezz-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Live%20Site-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/ali-ezz">
-  <img src="https://img.shields.io/badge/GitHub-ali--ezz-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
@@ -32,7 +29,24 @@
 
 ---
 
-## System Identity
+## Who I Am
+
+I am a **Data Science student at Helwan National University** in Cairo, focused on **Data Engineering** with **Applied AI** as a second layer.
+
+I am not trying to look like “the student with many certificates.”  
+I am trying to build proof that I can work on real systems:
+
+- systems that collect data
+- systems that clean and transform data
+- systems that expose data through APIs or dashboards
+- systems that use AI on top of a solid data foundation
+- systems that are documented well enough for another person to understand
+
+That is the profile I am building.
+
+---
+
+## What I Am Trying to Prove
 
 ```yaml
 name: Ali Alyan
@@ -44,98 +58,73 @@ cgpa: 3.58 / 4.00
 primary_track: Data Engineering
 secondary_track: Applied AI
 
-current_mission:
-  - build AI-ready data systems
-  - design cleaner ETL and data workflows
-  - turn projects into production-style proof
-  - document systems like an engineer, not just a student
+current_goal:
+  - become internship-ready for Data Engineering and Data Platform roles
+  - build stronger public proof through GitHub projects
+  - turn university and personal projects into professional case studies
+  - combine data infrastructure with applied AI products
 
-target_environment:
-  - data engineering teams
-  - data platform teams
-  - analytics engineering teams
-  - applied AI teams
-  - research or project-based AI/data work
-
-operating_principle: "Real systems beat notebooks."
+principle: "Real systems beat notebooks."
 ```
 
 ---
 
-## What I Am Building Toward
-
-I am building toward a profile that proves I can work on **real data and AI systems**, not just isolated notebooks.
-
-My direction is simple:
-
-| Layer | What I care about |
-|---|---|
-| **Data** | collection, cleaning, validation, transformation |
-| **Pipelines** | ETL / ELT workflows, batch processing, streaming concepts |
-| **Storage** | relational databases, warehouses, NoSQL, cloud data systems |
-| **Serving** | APIs, dashboards, analytics layers |
-| **AI layer** | LLM applications, RAG workflows, model-backed product features |
-| **Engineering** | documentation, deployment, reproducibility, clean repositories |
-
-**Main path:** Data Engineering  
-**Second layer:** Applied AI
-
-The goal is not to collect tools.  
-The goal is to build systems that make data useful.
-
----
-
-## Current System Status
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Polishing+GitHub+repositories;Rebuilding+project+documentation;Building+stronger+Data+Engineering+proof;Preparing+for+internships%2C+research%2C+and+future+scholarships" alt="Current status animation" />
-
-</div>
-
----
-
-## Technical Map
+## How I Think About My Path
 
 <table>
 <tr>
 <td width="50%">
 
-### Data Engineering Core
+### Data Engineering First
+
+This is the foundation I am prioritizing.
+
+I want to become strong at moving data from raw sources into useful systems:
 
 ```text
-Python
-SQL
-ETL / ELT
-Data Cleaning
-Data Modeling
-Data Warehousing
-Apache Spark
-Apache Kafka
-GCP Data Workflows
-APIs and Dashboards
+raw data
+→ ingestion
+→ cleaning
+→ transformation
+→ storage
+→ serving
+→ analytics / AI
 ```
+
+This is why I am focusing on SQL, ETL pipelines, data warehouses, Spark, Kafka, cloud workflows, and documentation.
 
 </td>
 <td width="50%">
 
-### Applied AI Layer
+### Applied AI Second
+
+AI becomes more useful when it sits on top of good data systems.
+
+My goal is not to build isolated AI demos.  
+My goal is to build AI-backed features connected to real workflows:
 
 ```text
-Machine Learning
-LLM Applications
-RAG Workflows
-LangChain
-Hugging Face
-Prompt Engineering
-Model-backed Products
-Evaluation Thinking
-AI Product Limitations
+data foundation
+→ model / LLM layer
+→ API or product
+→ user-facing value
 ```
+
+This is where LLM apps, RAG workflows, LangChain, Hugging Face, and model-backed products fit.
 
 </td>
 </tr>
 </table>
+
+---
+
+## Current Focus
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Polishing+GitHub+repositories;Rebuilding+project+documentation;Building+stronger+Data+Engineering+proof;Preparing+for+internships%2C+research%2C+and+future+scholarships" alt="Current focus animation" />
+
+</div>
 
 ---
 
@@ -193,7 +182,7 @@ ai_layer: Groq / LLaMA
 deployment: Vercel
 ```
 
-**What I worked on**
+**What I built**
 
 - live job data ingestion from an external API
 - LLM-based job-risk scoring
@@ -290,20 +279,6 @@ stack: Python
 
 ---
 
-## Build Momentum
-
-<div align="center">
-
-<img width="82%" src="https://streak-stats.demolab.com?user=ali-ezz&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub streak" />
-
-<br><br>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ali-ezz&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
-
-</div>
-
----
-
 ## Learning Proof
 
 Certifications are supporting evidence, not the main story.
@@ -319,7 +294,7 @@ Duke MLOps · AWS Generative AI and AI Agents with Amazon Bedrock · NVIDIA Buil
 
 ---
 
-## Content and Teaching
+## Teaching and Content
 
 I like explaining technical ideas in a visual and simple way.
 
