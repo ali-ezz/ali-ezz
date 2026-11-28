@@ -155,12 +155,12 @@ def build(phone):
     if phone:
         G = Grid(616, 154, 14, 22)
         L = dict(star=(40, 52), city=52, hor=92, river=94, ground=132, links=145)
-        name = [("ALI", 7), ("ALYAN", 17)]
+        name = []
         motto_row = 31
     else:
         G = Grid(1692, 153, 12, 20)
         L = dict(star=(38, 48), city=48, hor=91, river=93, ground=135, links=145)
-        name = [("ALI ALYAN", 11)]
+        name = []
         motto_row = 32
     R, C = G.rows, G.cols
     rng = np.random.default_rng(7)
