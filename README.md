@@ -12,7 +12,7 @@ Each project below says what was tested and what was not.
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/ali-ezz/building-explorer"><img width="100%" src="assets/building-explorer.webp" alt="Web map of a dense neighbourhood with every building outlined and coloured"></a>
+<a href="https://github.com/ali-ezz/building-explorer"><img width="100%" src="assets/building-explorer.webp" alt="Satellite map of a dense neighbourhood with one building selected and its measurements in the side panel"></a>
 <br><b><a href="https://github.com/ali-ezz/building-explorer">building-explorer</a></b> · <a href="https://ali-ezz.github.io/building-explorer/">live map</a>
 <br>A single-file web map of open building footprints and heights for anywhere on Earth, with measurements in the browser and export for QGIS. Built at NARSS.
 <br><sub>MapLibre · PMTiles · Overture Maps · GeoTIFF</sub>
