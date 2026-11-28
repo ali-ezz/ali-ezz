@@ -12,13 +12,13 @@ Each project below says what was tested and what was not.
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/ali-ezz/building-explorer"><img src="https://raw.githubusercontent.com/ali-ezz/building-explorer/main/docs/images/preview.jpg" alt="Web map of a dense neighbourhood with every building outlined and coloured"></a>
+<a href="https://github.com/ali-ezz/building-explorer"><img width="100%" src="assets/building-explorer.webp" alt="Web map of a dense neighbourhood with every building outlined and coloured"></a>
 <br><b><a href="https://github.com/ali-ezz/building-explorer">building-explorer</a></b> · <a href="https://ali-ezz.github.io/building-explorer/">live map</a>
 <br>A single-file web map of open building footprints and heights for anywhere on Earth, with measurements in the browser and export for QGIS. Built at NARSS.
 <br><sub>MapLibre · PMTiles · Overture Maps · GeoTIFF</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/ali-ezz/servicenow-incident-agent"><img src="assets/servicenow-incident-agent.png" alt="ServiceNow incident closed by the agent after the caller confirmed their account was unlocked"></a>
+<a href="https://github.com/ali-ezz/servicenow-incident-agent"><img width="100%" src="assets/servicenow-incident-agent.webp" alt="ServiceNow chat in which the agent unlocks the caller's account and the caller confirms they can sign in"></a>
 <br><b><a href="https://github.com/ali-ezz/servicenow-incident-agent">servicenow-incident-agent</a></b>
 <br>An agent that investigates ServiceNow incidents, chats with the caller, follows hard policy rules and hands the ticket to a person when it should not decide alone. My work for the BARQ x Sprints programme, built on the team's platform.
 <br><sub>FastAPI · Celery · LangGraph · Qdrant · Langfuse</sub>
@@ -26,13 +26,13 @@ Each project below says what was tested and what was not.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/ali-ezz/rag-assistant"><img src="https://raw.githubusercontent.com/ali-ezz/rag-assistant/main/docs/images/answer-sources.png" alt="Chat answer with its four source sections from the object detection lab listed below it"></a>
+<a href="https://github.com/ali-ezz/rag-assistant"><img width="100%" src="assets/rag-assistant.webp" alt="Chat answer with its four source sections from the object detection lab listed below it"></a>
 <br><b><a href="https://github.com/ali-ezz/rag-assistant">rag-assistant</a></b>
 <br>Answers questions about 12 AI course labs with a small local model and lists the sections it used. For 12 of 12 test questions the expected lab is among the four chunks it retrieves.
 <br><sub>FastAPI · ChromaDB · Ollama · Streamlit · Docker Compose</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/ali-ezz/hand-tracking-games"><img src="https://raw.githubusercontent.com/ali-ezz/hand-tracking-games/main/docs/images/menu.png" alt="Game menu with five hand-controlled games to choose from"></a>
+<a href="https://github.com/ali-ezz/hand-tracking-games"><img width="100%" src="assets/hand-tracking-games.webp" alt="Game menu with five hand-controlled games to choose from"></a>
 <br><b><a href="https://github.com/ali-ezz/hand-tracking-games">hand-tracking-games</a></b> · <a href="https://ali-ezz.github.io/hand-tracking-games/">play</a>
 <br>Five browser games you control by moving your hand in front of the webcam, with multiplayer rooms through a small Node server.
 <br><sub>MediaPipe Hands · JavaScript · Canvas · Socket.IO</sub>
@@ -40,19 +40,21 @@ Each project below says what was tested and what was not.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/ali-ezz/asl-alphabet-recognition"><img src="https://raw.githubusercontent.com/ali-ezz/asl-alphabet-recognition/main/docs/images/confusion-matrix-inceptionv3.svg" alt="Confusion matrix of the InceptionV3 model over the ASL alphabet letters"></a>
+<a href="https://github.com/ali-ezz/asl-alphabet-recognition"><img width="100%" src="assets/asl-alphabet-recognition.webp" alt="Confusion matrix of the InceptionV3 model over the ASL alphabet letters"></a>
 <br><b><a href="https://github.com/ali-ezz/asl-alphabet-recognition">asl-alphabet-recognition</a></b> · team
 <br>Recognises ASL alphabet letters from images, video or the webcam: MediaPipe finds the hand, three Keras models vote on the letter.
 <br><sub>TensorFlow · Keras · MediaPipe · Streamlit</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/ali-ezz/Whos-Watching-Your-Browser"><img src="https://raw.githubusercontent.com/ali-ezz/Whos-Watching-Your-Browser/main/docs/images/presentation.jpg" alt="Title slide of a 3D web presentation about browser security"></a>
+<a href="https://github.com/ali-ezz/Whos-Watching-Your-Browser"><img width="100%" src="assets/Whos-Watching-Your-Browser.webp" alt="Title slide of a 3D web presentation about browser security"></a>
 <br><b><a href="https://github.com/ali-ezz/Whos-Watching-Your-Browser">Whos-Watching-Your-Browser</a></b> · <a href="https://ali-ezz.github.io/Whos-Watching-Your-Browser/">open</a>
 <br>An interactive 3D presentation on browser security, with a page that shows what your own browser gives away for fingerprinting.
 <br><sub>Three.js · GSAP · Vite</sub>
 </td>
 </tr>
 </table>
+
+<sub>Pictures are cut from each repository's own screenshots and figures (the ServiceNow one from its demo recording, test data only).</sub>
 
 ## More projects
 
