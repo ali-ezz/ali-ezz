@@ -1,105 +1,243 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="Ali Alyan. Applied AI, computer vision and maps, drawn over the outlines of real buildings in Imbaba, Giza, as building-explorer maps them">
-</picture>
+<div align="center">
 
-I'm Ali, a Data Science student at Helwan National University in Cairo, Egypt. I build applied AI projects: computer vision in the browser and in Python, assistants that answer from documents and cite them, an agent that works ServiceNow tickets, and web maps for remote-sensing data. At NARSS (the National Authority for Remote Sensing and Space Sciences) I built [building-explorer](https://github.com/ali-ezz/building-explorer).
+# Ali Alyan
 
-Each project below says what was tested and what was not.
+### Data Engineering-Focused Data Science Student  
+Building data pipelines, AI-ready systems, and applied AI products.
 
-## Selected work
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/ali-ezz/building-explorer"><img width="100%" src="assets/building-explorer.webp" alt="Satellite map of a dense neighbourhood with one building selected and its measurements in the side panel"></a>
-<br><b><a href="https://github.com/ali-ezz/building-explorer">building-explorer</a></b> · <a href="https://ali-ezz.github.io/building-explorer/">live map</a>
-<br>A single-file web map of open building footprints and heights for anywhere on Earth, with measurements in the browser and export for QGIS. Built at NARSS.
-<br><sub>MapLibre · PMTiles · Overture Maps · GeoTIFF</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/ali-ezz/servicenow-incident-agent"><img width="100%" src="assets/servicenow-incident-agent.webp" alt="ServiceNow chat in which the agent unlocks the caller's account and the caller confirms they can sign in"></a>
-<br><b><a href="https://github.com/ali-ezz/servicenow-incident-agent">servicenow-incident-agent</a></b>
-<br>An agent that investigates ServiceNow incidents, chats with the caller, follows hard policy rules and hands the ticket to a person when it should not decide alone. My work for the BARQ x Sprints programme, built on the team's platform.
-<br><sub>FastAPI · Celery · LangGraph · Qdrant · Langfuse</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/ali-ezz/rag-assistant"><img width="100%" src="assets/rag-assistant.webp" alt="Chat answer with its four source sections from the object detection lab listed below it"></a>
-<br><b><a href="https://github.com/ali-ezz/rag-assistant">rag-assistant</a></b>
-<br>Answers questions about 12 AI course labs with a small local model and lists the sections it used. For 12 of 12 test questions the expected lab is among the four chunks it retrieves.
-<br><sub>FastAPI · ChromaDB · Ollama · Streamlit · Docker Compose</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/ali-ezz/hand-tracking-games"><img width="100%" src="assets/hand-tracking-games.webp" alt="Game menu with five hand-controlled games to choose from"></a>
-<br><b><a href="https://github.com/ali-ezz/hand-tracking-games">hand-tracking-games</a></b> · <a href="https://ali-ezz.github.io/hand-tracking-games/">play</a>
-<br>Five browser games you control by moving your hand in front of the webcam, with multiplayer rooms through a small Node server.
-<br><sub>MediaPipe Hands · JavaScript · Canvas · Socket.IO</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/ali-ezz/asl-alphabet-recognition"><img width="100%" src="assets/asl-alphabet-recognition.webp" alt="Confusion matrix of the InceptionV3 model over the ASL alphabet letters"></a>
-<br><b><a href="https://github.com/ali-ezz/asl-alphabet-recognition">asl-alphabet-recognition</a></b> · team
-<br>Recognises ASL alphabet letters from images, video or the webcam: MediaPipe finds the hand, three Keras models vote on the letter.
-<br><sub>TensorFlow · Keras · MediaPipe · Streamlit</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/ali-ezz/Whos-Watching-Your-Browser"><img width="100%" src="assets/Whos-Watching-Your-Browser.webp" alt="Title slide of a 3D web presentation about browser security"></a>
-<br><b><a href="https://github.com/ali-ezz/Whos-Watching-Your-Browser">Whos-Watching-Your-Browser</a></b> · <a href="https://ali-ezz.github.io/Whos-Watching-Your-Browser/">open</a>
-<br>An interactive 3D presentation on browser security, with a page that shows what your own browser gives away for fingerprinting.
-<br><sub>Three.js · GSAP · Vite</sub>
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=750&color=00C2FF&center=true&vCenter=true&width=950&lines=Data+Engineering+first.+Applied+AI+second.;I+build+systems+that+move%2C+clean%2C+serve%2C+and+use+data.;Python+%E2%80%A2+SQL+%E2%80%A2+Spark+%E2%80%A2+Kafka+%E2%80%A2+GCP;Real+systems+beat+notebooks." alt="Typing animation" />
 
-<sub>Pictures are cut from each repository's own screenshots and figures (the ServiceNow one from its demo recording, test data only).</sub>
+<br><br>
 
-## More projects
+<a href="https://www.linkedin.com/in/ali-ezz-alyan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ali%20Alyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://ali-ezz-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Site-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-**AI and machine learning**
-- [mizan-arabic-legal-assistant](https://github.com/ali-ezz/mizan-arabic-legal-assistant): answers Egyptian legal questions in Arabic from retrieved law text (BM25, FAISS, Gradio). Team.
-- [voice-vision-drone-assistant](https://github.com/ali-ezz/voice-vision-drone-assistant): a DJI Tello prototype driven by voice commands and YOLO camera detection, with a simulator mode.
-- [CareerBuddy](https://github.com/ali-ezz/CareerBuddy): searches remote jobs and asks an LLM to estimate how exposed each one is to automation.
-- [evolutionary-algorithms-visualizer](https://github.com/ali-ezz/evolutionary-algorithms-visualizer): watch a genetic algorithm and differential evolution improve side by side.
-- [image-video-mosaic](https://github.com/ali-ezz/image-video-mosaic): rebuilds an image or video as a grid of tinted copies of itself.
-- [house-price-segmentation-app](https://github.com/ali-ezz/house-price-segmentation-app): house price regression and customer clustering in a Streamlit app. Team.
+<br><br>
 
-**Web**
-- [cgpa-calculator](https://github.com/ali-ezz/cgpa-calculator): Arabic semester and cumulative GPA calculator ([open](https://the-list-rho.vercel.app)).
-- [student-management-platform](https://github.com/ali-ezz/student-management-platform): student records and a task manager (FastAPI, React, PostgreSQL). Team.
-- [cloth-shop](https://github.com/ali-ezz/cloth-shop): static front end of a clothing shop. Team.
+<img src="https://komarev.com/ghpvc/?username=ali-ezz&style=flat-square&color=0891b2" />
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Research%20%7C%20Projects-16a34a?style=flat-square" />
+<img src="https://img.shields.io/badge/Primary-Data%20Engineering-0284c7?style=flat-square" />
+<img src="https://img.shields.io/badge/Secondary-Applied%20AI-7c3aed?style=flat-square" />
 
-**Data and dashboards**
-- [bank-loan-powerbi-dashboard](https://github.com/ali-ezz/bank-loan-powerbi-dashboard): Power BI dashboard on 38,576 bank loan records.
-- [recession-car-sales-dashboard](https://github.com/ali-ezz/recession-car-sales-dashboard): car sales in recession and normal years, in a Plotly Dash app.
-- [spotify-trends-dashboard](https://github.com/ali-ezz/spotify-trends-dashboard): Spotify track data cleaned and charted in Dash. Team.
-- [movie-data-analysis](https://github.com/ali-ezz/movie-data-analysis): cleaning, hypothesis tests and PCA on movie metadata. Team.
-- [python-eda-toolkit](https://github.com/ali-ezz/python-eda-toolkit): classes for loading, cleaning, testing and plotting tabular data.
-- [airline-mapreduce-pipeline](https://github.com/ali-ezz/airline-mapreduce-pipeline): two Hadoop MapReduce jobs in Java; the data generators are missing, so it does not run as committed. Team.
+</div>
 
-**Systems and coursework**
-- [javafx-course-manager](https://github.com/ali-ezz/javafx-course-manager): JavaFX desktop app for courses, enrolments and grades. Team.
-- [secure-student-records](https://github.com/ali-ezz/secure-student-records): role-based access, inference control and audit logging in a Tkinter app. Team.
-- [oracle-university-exam-system](https://github.com/ali-ezz/oracle-university-exam-system): Oracle SQL and PL/SQL for registration, results and auditing. Team.
-- [c-role-based-file-manager](https://github.com/ali-ezz/c-role-based-file-manager): menu-driven file manager in C with separate roles.
-- [flight-booking-cli](https://github.com/ali-ezz/flight-booking-cli) and [vaccine-booking-cli](https://github.com/ali-ezz/vaccine-booking-cli): booking programs for the command line.
-- [python-algorithm-exercises](https://github.com/ali-ezz/python-algorithm-exercises) and [python-mini-scripts](https://github.com/ali-ezz/python-mini-scripts): practice code with tests.
+---
 
-## Tools I have used in these projects
+## Identity
 
-| Area | Tools |
+```yaml
+name: Ali Alyan
+location: Cairo, Egypt
+university: Helwan National University
+major: Data Science
+cgpa: 3.58 / 4.00
+
+primary_track: Data Engineering
+secondary_track: Applied AI
+
+what_i_build:
+  - ETL pipelines
+  - APIs and dashboards
+  - AI-ready data systems
+  - LLM and RAG applications
+  - production-style technical projects
+
+target_roles:
+  - Data Engineering Intern
+  - Data Platform Intern
+  - Analytics Engineering Intern
+  - Applied AI Intern
+  - ML Engineering Intern
+  - Research / Project Assistant
+```
+
+---
+
+## Direction
+
+I am building toward one clear profile:
+
+> **A Data Engineer who can also build applied AI systems.**
+
+That means I care about the full path from raw data to useful product:
+
+```text
+raw data
+→ ingestion
+→ cleaning
+→ transformation
+→ storage
+→ API / dashboard
+→ analytics or AI layer
+```
+
+My main focus is **Data Engineering** because good AI systems need strong data foundations.  
+My second focus is **Applied AI** because I want to use models and LLMs inside real products, not isolated demos.
+
+---
+
+## Current Focus
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Polishing+GitHub+repositories;Rewriting+project+documentation;Building+stronger+Data+Engineering+proof;Preparing+for+internships+and+research+opportunities" alt="Current focus animation" />
+
+</div>
+
+---
+
+## Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
+
+<br><br>
+
+### Data, AI, and Backend
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,django,nodejs,postgres,mysql,mongodb" />
+
+<br><br>
+
+### Cloud, DevOps, and Tools
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github,linux,bash,vscode" />
+
+<br><br>
+
+### Web and Product
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,vercel,firebase,supabase" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+
+</div>
+
+---
+
+## Selected Work
+
+### CareerBuddy — AI Career Intelligence Platform
+
+AI-powered job discovery platform that analyzes live job listings and estimates AI disruption risk using LLM-based reasoning.
+
+```yaml
+type: Applied AI product
+status: deployed prototype
+data_source: Remotive API
+ai_layer: Groq / LLaMA
+deployment: Vercel
+```
+
+**Built:** live job-data ingestion, LLM-based scoring, AI career guidance, job filters, and serverless deployment.
+
+**Stack:** `JavaScript` · `Node.js` · `Vercel Serverless` · `Groq API` · `LLaMA` · `Remotive API`
+
+<a href="https://github.com/ali-ezz/CareerBuddy">
+  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### NEVAI — Privacy-Focused Collaboration Platform
+
+Graduation project and startup prototype exploring encrypted collaboration workflows for documents, communication, and team productivity.
+
+```yaml
+type: graduation project / startup prototype
+status: under active development
+focus: encrypted collaboration workflows
+```
+
+**Contributions:** client-side encryption flow design, real-time collaboration logic, Docker-based workflows, security documentation, and threat-model thinking.
+
+**Stack:** `Node.js` · `WebSocket` · `Docker` · `CryptPad` · `ChainPad` · `JavaScript/TypeScript`
+
+---
+
+### Other Technical Projects
+
+| Project | Focus | Stack |
+|---|---|---|
+| [Course Management System](https://github.com/ali-ezz/Course-Management-System) | OOP, role-based academic workflows | Java, JavaFX, FXML |
+| [Genetic Algorithms in AI](https://github.com/ali-ezz/Genetic-Algorithms-in-AI) | optimization and search | Python |
+| [Logistics Supply Chain System](https://github.com/ali-ezz/logistics-supply-chain-system) | role-based CLI system and permissions | C / systems concepts |
+
+---
+
+## GitHub Signals
+
+<div align="center">
+
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-ezz&theme=github_dark" alt="GitHub profile summary" />
+
+<br><br>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali-ezz&theme=github_dark" alt="Repos per language" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-ezz&theme=github_dark" alt="Most committed languages" />
+
+</div>
+
+---
+
+## Learning Proof
+
+Certifications are supporting evidence, not the main story.
+
+| Track | Selected credentials |
 |---|---|
-| Languages | Python, JavaScript, Java, SQL, C |
-| Vision and ML | TensorFlow and Keras, MediaPipe, OpenCV, YOLO, scikit-learn |
-| LLMs and retrieval | LangGraph, Langfuse, Qdrant, ChromaDB, FAISS, Ollama, sentence-transformers |
-| Back end | FastAPI, Celery, Docker Compose, PostgreSQL |
-| Maps | MapLibre, PMTiles, Overture Maps, GeoTIFF |
-| Data and dashboards | pandas, Plotly Dash, Streamlit, Power BI |
+| **Data Engineering & Cloud** | IBM Data Engineering · GCP Data Engineering / Big Data / ML · Google Data Analytics · AWS ML Engineer |
+| **AI / ML Engineering** | IBM AI Engineering · IBM Machine Learning · Microsoft AI & ML Engineering · CS50 AI with Python |
+| **MLOps, LLMs & Systems** | Duke MLOps · AWS Bedrock / AI Agents · NVIDIA LLM Applications · CS50x · Knowledge Graphs |
 
-## Contact
+---
 
-[LinkedIn](https://www.linkedin.com/in/ali-ezz-alyan/) · [Portfolio](https://ali-ezz-portfolio.vercel.app/) (with my certificates)
+## Contribution Snake
 
-<sub>Banner: building outlines in Imbaba, Giza, read from building-explorer. Footprints from Google Open Buildings and Microsoft, combined by VIDA (CC BY 4.0), and Overture Maps, which includes data © OpenStreetMap contributors (ODbL).</sub>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ali-ezz/ali-ezz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ali-ezz/ali-ezz/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ali-ezz/ali-ezz/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## Content & Teaching
+
+I like explaining technical ideas in a visual and simple way.
+
+I have worked on educational content using **Python** and **Manim**, including visual explanations of AI concepts, GPS, and WiFi.
+
+```text
+Teaching forces clarity.
+If I cannot explain a system simply,
+I probably do not understand it deeply enough.
+```
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=850&lines=Real+systems+beat+notebooks.;Data+foundations+make+AI+useful.;Build.+Document.+Improve.+Repeat." alt="Footer typing animation" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/ali-ezz-alyan/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
